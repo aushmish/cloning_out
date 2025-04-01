@@ -1,2 +1,2 @@
 # cloning_out
-Zeroha Landing Page ( using html , css  )
+Zerodha Landing Page ( using html , css  )
